@@ -30,7 +30,7 @@ Low driver module schematic with notes, title block at right reading sideways.
 - **Circles and arcs:** 36 circles, 85 arcs; largest r 7.5 @ (112.8, 271.3), r 7.4 @ (84.4, 323.9), r 7.4 @ (84.5, 270.9), r 7.3 @ (112.8, 158.7)
 - **Wiring (first pass):** 89 connected wire groups from 684 runs
 
-Every curve, box, word and wire group: [19xx - 755-02-001 - MP DRIVER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20755-02-001%20-%20MP%20DRIVER%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 755-02-001 - MP DRIVER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 755-02-001 - MP DRIVER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20755-02-001%20-%20MP%20DRIVER%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 755-02-001 - MP DRIVER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Wiki page: [M755](../../../../PAGES/M755.md)
 - **Words (OCR):** 7 in 5 lines: 28 83 · Jaa8 · 23} · 28 · 285 WAHI
 - **Wiring (first pass):** 139 connected wire groups from 1,174 runs; labelled ends: 28 mm → 285, WAHI; 24 mm → 28; 15 mm → 28; 8 mm → 28; 7 mm → 23}
 
-Every curve, box, word and wire group: [1971 - 755-02-002 - 1 LAMP DRIVER MODULE SCHEMATIC - DRN PHIL (traced).json](../SCHEMATICS/1971%20-%20755-02-002%20-%201%20LAMP%20DRIVER%20MODULE%20SCHEMATIC%20-%20DRN%20PHIL%20(traced).json) (the CAD file: `1971 - 755-02-002 - 1 LAMP DRIVER MODULE SCHEMATIC - DRN PHIL (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 755-02-002 - 1 LAMP DRIVER MODULE SCHEMATIC - DRN PHIL (traced).json](../SCHEMATICS/1971%20-%20755-02-002%20-%201%20LAMP%20DRIVER%20MODULE%20SCHEMATIC%20-%20DRN%20PHIL%20%28traced%29.json) (the CAD file: `1971 - 755-02-002 - 1 LAMP DRIVER MODULE SCHEMATIC - DRN PHIL (traced).dxf`).
 
 ## Full text
 
