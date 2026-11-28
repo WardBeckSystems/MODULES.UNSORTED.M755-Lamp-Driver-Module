@@ -1,5 +1,5 @@
 # 19xx - 755-02-001 - MP DRIVER MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M755](../../../../PAGES/M755.md)
+Wiki page: [M755](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1971 - 755-02-002 - 1 LAMP DRIVER MODULE SCHEMATIC - DRN PHIL.jpg
-Wiki page: [M755](../../../../PAGES/M755.md)
+Wiki page: [M755](../)
 
 
 - **Year:** 1971 (title block date)

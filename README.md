@@ -1,6 +1,6 @@
 # M755 Lamp Driver Module · Communication
 
-Ward-Beck Systems M755, 1971|4. Wiki page: [M755 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M755.html)
+Ward-Beck Systems M755, 1971|4. Wiki page: [M755 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M755-Lamp-Driver-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
